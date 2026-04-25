@@ -1,0 +1,9 @@
+name: vs code
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: My server
+    command: npx
+    args:
+      - -y
+      - command-name
