@@ -1,4 +1,4 @@
-# 📚 Online Library Management System (PHP)
+# 📚 Library Management System (PHP)
 
 A complete web-based **Library Management System** built with **PHP**, **MySQL (PDO)**, **Bootstrap**, and **jQuery**. This application provides separate dashboards and functionalities for **Admin** and **Students (Users)** to efficiently manage library operations including book inventory, issuing, returning, and user management.
 
