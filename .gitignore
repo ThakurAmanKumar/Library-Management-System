@@ -1,0 +1,4 @@
+# Ignore editor and local workspace files
+.continue/
+.vscode/
+SQL file/
